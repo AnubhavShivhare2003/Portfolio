@@ -71,7 +71,7 @@ npm install
 # Start the development server
 npm run dev
 ```
-Visit `http://localhost:5173` to view your portfolio.
+Visit `https://portfolio-nu-rose-97.vercel.app/` to view your portfolio.
 
 ### Build for Production
 ```bash
