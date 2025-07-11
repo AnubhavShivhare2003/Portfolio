@@ -8,7 +8,7 @@ const projects = [
     name: "Resume Builder",
     description: "A full-stack web application for creating, customizing, and downloading professional resumes. Users can select from multiple templates, choose color palettes, upload profile and project photos, and download their resume as a PDF.",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     link: "https://github.com/AnubhavShivhare2003/Resume-Builder-Project",
     deployedLink:"https://resume-builder-project-f3yn.vercel.app/"
   },
@@ -16,7 +16,7 @@ const projects = [
     name: "Ai Code Reviewer",
     description: "A modern web application that provides intelligent code review using Google's Gemini AI. Built with React frontend and Node.js backend, this tool helps developers improve their code quality by providing detailed, professional code reviews.",
     align: "right",
-    image: "../../public/images/website-img-2.jpg",
+    image: "/images/website-img-2.jpg",
     link: "https://github.com/AnubhavShivhare2003/Resume-Builder-Project",
     deployedLink:"https://resume-builder-project-f3yn.vercel.app/"
   },
@@ -24,7 +24,7 @@ const projects = [
     name: "Virtual Classroom",
     description: "This project aims to replicate the traditional classroom experience by enabling real-time collaboration between students and teachers.",
     align: "left",
-    image: "../../public/images/website-img-3.jpg",
+    image: "/images/website-img-3.jpg",
     link: "https://github.com/vishal7it/B42_WEB_062_Code-Crafters",
     deployedLink:"https://learningsphere.netlify.app/"
   },

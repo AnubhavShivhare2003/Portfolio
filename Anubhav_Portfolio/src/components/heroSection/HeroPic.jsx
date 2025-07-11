@@ -15,8 +15,8 @@ const HeroPic = () => {
       <div className="rounded-full bg-blue-500 p-2 border-4 border-white-700">
 
         <img
-          src="../../public/images/HexaPic.png"
-          alt="Abdelrahman Qassem"
+          src="/images/HexaPic.png"
+          alt="Anubhav Shivhare"
           className="max-h-[350px] w-auto rounded-full object-cover"
         />
       </div>
